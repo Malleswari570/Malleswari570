@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**Malleswari570/Malleswari570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Bandaru Malleswari
 
-Here are some ideas to get you started:
+🎓 B.Tech Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Python Developer
+
+🤖 AI & Data Analytics Enthusiast Enthusiast
+
+🌐 Full Stack Developer Learner
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Python, AI and Full Stack Development
+- 💻 Building Real World Projects
+- 🎯 Preparing for Placements
+- ❤️ Love Coding and Learning
+
+---
+
+## 🛠 Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git
+- GitHub
+
+---
+
+## 📌 Projects
+
+- SkinSense AI
+- Task Management App
+- Portfolio Website
+- SQL Projects
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:https://www.linkedin.com/in/bandarumalleswari/
+Portfolio:
+Email:bandarumalleswari6@gmail.com
