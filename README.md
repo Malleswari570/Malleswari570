@@ -45,5 +45,4 @@
 ## 📫 Connect with Me
 
 LinkedIn:https://www.linkedin.com/in/bandarumalleswari/
-Portfolio:
 Email:bandarumalleswari6@gmail.com
