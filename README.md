@@ -5,7 +5,7 @@
 
 💻 Python Developer
 
-🤖 AI & Data Analytics Enthusiast Enthusiast
+🤖 AI & Data Analytics Enthusiast 
 
 🌐 Full Stack Developer Learner
 
