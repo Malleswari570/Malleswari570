@@ -1,47 +1,34 @@
+<table>
+<tr>
 
-# Hi 👋 I'm Bandaru Malleswari
+<td width="35%">
 
-🎓 B.Tech Student
+<img src="YOUR_IMAGE_LINK" width="250"/>
 
-💻 Python Developer
+</td>
 
-🤖 AI & Data Analytics Enthusiast 
+<td width="65%">
 
-🌐 Full Stack Developer Learner
+# Hi, I'm Bandaru Malliswari ✨
 
----
+### B.Tech Student 👩‍🎓
 
-## 🚀 About Me
+## 👌 About Me
 
-- 🌱 Currently learning Python, AI and Full Stack Development
+- 🌱 Learning Python, AI & Full Stack
 - 💻 Building Real World Projects
+- 🤝 Looking to collaborate
 - 🎯 Preparing for Placements
-- ❤️ Love Coding and Learning
+- ❤️ Love Coding
 
----
+## 🌐 Socials
 
-## 🛠 Skills
+LinkedIn | Gmail
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Git
-- GitHub
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,mysql,git,github,vscode"/>
 
----
+</td>
 
-## 📌 Projects
+</tr>
 
-- SkinSense AI
-- Task Management App
-- Portfolio Website
-- SQL Projects
-
----
-
-## 📫 Connect with Me
-
-LinkedIn:https://www.linkedin.com/in/bandarumalleswari/
-Email:bandarumalleswari6@gmail.com
+</table>
