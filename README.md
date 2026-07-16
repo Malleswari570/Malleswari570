@@ -1,34 +1,35 @@
-<table>
-<tr>
-
-<td width="35%">
-
-<img src="YOUR_IMAGE_LINK" width="250"/>
-
-</td>
-
-<td width="65%">
-
 # Hi, I'm Bandaru Malliswari ✨
 
-### B.Tech Student 👩‍🎓
+### 💙 B.Tech Student 👩‍🎓
 
-## 👌 About Me
+---
 
-- 🌱 Learning Python, AI & Full Stack
+# 👌 About Me
+
+- 🌱 I'm currently learning Python, AI & Full Stack Development
 - 💻 Building Real World Projects
-- 🤝 Looking to collaborate
+- 🤝 Looking to collaborate on Student Projects
 - 🎯 Preparing for Placements
-- ❤️ Love Coding
+- ❤️ Love Coding and Learning
 
-## 🌐 Socials
+---
 
-LinkedIn | Gmail
+# 🌐 Socials
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,mysql,git,github,vscode"/>
+[![LinkedIn](https://www.linkedin.com/in/bandarumalleswari/)
+[![Email](bandarumalleswari6@gmail.com)
 
-</td>
+---
 
-</tr>
+# 💻 Tech Stack
 
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=sql"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+</p>
